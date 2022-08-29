@@ -1,0 +1,34 @@
+body {
+  background: linear-gradient(145deg, #681414, #D7CCB6) no-repeat center/cover;
+  height: 100vh;
+}
+
+body p {
+  font-size: 20px;
+}
+
+body .box {
+  width: 60%;
+  margin: auto;
+}
+
+body .btn {
+  display: block;
+  width: 150px;
+  background-color: #521515;
+  color: white;
+  border-radius: 5px;
+  border: 0px;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+body .btn:hover {
+  background-color: #330707;
+}
+
+body .put {
+  width: 100%;
+  height: 25px;
+}
+/*# sourceMappingURL=all.css.map */
